@@ -1,0 +1,9 @@
+A C# XNA implementation of Pong.
+
+This code was written by Stephan Wallentin, http://coding4fun.tumblr.com. All this code took about 1 week to write, but probably more since it's
+a refactoring of an earlier version of this code base.
+
+The reason for this code was that I wanted to experiment with the MVC pattern and some other design patterns.
+So all code can be percieved as lab code. The current version of the code is the third iteration of the same game engine.
+
+All the code is provided as is.
