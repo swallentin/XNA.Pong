@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Game.Base.ContentTypes.SpriteEntityData">
+    <Name>Ball</Name>
+    <AssetName>Bubble</AssetName>
+    <Position>0.5 0.5</Position>
+    <Direction>0 0</Direction>
+    <Source>0 0 0 0</Source>
+    <Size>0 0 0 0</Size>
+    <Scale>0.2</Scale>
+    <Origin>0 0</Origin>
+    <Velocity>300 300</Velocity>
+    <Rotation>0</Rotation>
+    <Color>FFFFFF</Color>
+    <LayerDepth>1</LayerDepth>
+  </Asset>
+</XnaContent>
